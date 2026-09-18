@@ -71,7 +71,7 @@ Ranked the top 10 weekday tweets by Total Engagements (Likes + Retweets + Replie
 
 ## Overall takeaway
 
-A few things show up again and again across the six tasks. Media and link-based tweets consistently do better than plain text on engagement and click-through. Most of the audience's interaction is passive — liking rather than retweeting or replying. July shows up as a peak month more than once, followed by a drop in August each time. The most useful, actionable finding is probably from Task 2: tweets that drive app opens aren't going out during normal business hours, which is a pretty simple thing to test and fix.
+A few things show up again and again across the six tasks. Media and link-based tweets consistently do better than plain text on engagement and click-through. Most of the audience's interaction is passive — liking rather than retweeting or replying. July shows up as a peak month more than once, followed by a drop in August each time. 
 
 ## Author
 
